@@ -1,0 +1,4 @@
+pydexcom
+fastapi
+uvicorn
+mcp
